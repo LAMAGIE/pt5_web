@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  background-color: #272727;
+}
+
+header {
+  height: 80px;
+}
+.affiche {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.affiche > img {
+  width: 150px;
+  border-radius: 10px 0 0 10px;
+}
+
+.description > * {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  max-width: 100px;
+}
+
+.films {
+  color: #D9C2AD;
+}

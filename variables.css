@@ -1,0 +1,61 @@
+.yellow {
+  color: #FFE500;
+}
+
+.white {
+  color: white;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.container {
+  display : flex;
+}
+
+.wrap {
+  flex-wrap: wrap;
+}
+
+.bg-grey {
+  background-color: #474747;
+}
+
+.gap-20 {
+  gap: 20px;
+}
+
+.m-0 {
+  margin: 0;
+}
+
+.mleft-200 {
+  margin-left: 200px;
+}
+
+.pleft-10 {
+  padding-left: 10px;
+}
+
+.jusitify-center {
+  justify-content: center;
+}
+
+.poppins {
+  font-family: "Poppins", sans-serif;
+
+}
+
+.raleway {
+  font-family: 'Raleway', sans-serif;
+
+}
+
+.border {
+  border-radius: 10px;
+}
+
+.txt-center {
+  text-align: center;
+}
